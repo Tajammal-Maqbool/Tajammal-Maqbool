@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Tajammal Maqbool</h1>
+<h1 align="center">Hi 👋, I'm <a href="https://tajammalmaqbool.com">Tajammal Maqbool</h1>
 <h3 align="center">A passionate full stack developer from Pakistan.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tajammal-maqbool" alt="tajammal-maqbool" /></a> </p>
 
-- 🔭 I’m currently working on [Magic marble Game](uid-app-mtjl8.ondigitalocean.app)
+- 🔭 I’m also writing blogs, check on <a href="https://tajammalmaqbool.com/blogs">here</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
